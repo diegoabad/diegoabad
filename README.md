@@ -46,6 +46,7 @@ I am also interested in mobile development with **React Native**.
 
 ### Github of my colleagues
 
+<<<<<<< HEAD
 - <a href="https://github.com/sritapam" target="_blank">Pamela Pereyra</a>
 - <a href="https://github.com/Miguegithub78" target="_blank">Miguel Avalle</a>
 - <a href="https://github.com/jesuanp" target="_blank">Jesuan Patermina</a>
@@ -53,6 +54,15 @@ I am also interested in mobile development with **React Native**.
 - <a href="https://github.com/anaangelicaf" target="_blank">Ana Fernandez</a>
 - <a href="https://github.com/hernandiazz9" target="_blank">Hernan Diaz</a>
 - <a href="https://github.com/Ailin09" target="_blank">Ailín Rutchle</a>
+=======
+- [Hernan Diaz](https://github.com/hernandiazz9)
+- [Ailín Rutchle](https://github.com/Ailin09)
+- [Pamela Pereyra](https://github.com/sritapam)
+- [Jesuan Patermina](https://github.com/jesuanp)
+- [Maximiliano Gadea](https://github.com/maxigadea)
+- [Miguel Avalle](https://github.com/Miguegithub78)
+- [Ana Fernandez](https://github.com/anaangelicaf)
+>>>>>>> 0aa22fa18722e50577869d3b127ed7c80084435b
 
 <img src="./Middle/Landing.png " alt="Landing"   />
 <img src="./Middle/Home.png " alt="Home"  />
