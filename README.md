@@ -48,7 +48,7 @@ I am also interested in mobile development with **React Native**.
 
 - [Hernan Diaz](https://github.com/hernandiazz9)
 - [Ailín Rutchle](https://github.com/Ailin09)
-- [Pamela Pereyra](hhttps://github.com/sritapam)
+- [Pamela Pereyra](https://github.com/sritapam)
 - [Jesuan Patermina](https://github.com/jesuanp)
 - [Maximiliano Gadea](https://github.com/maxigadea)
 - [Miguel Avalle](https://github.com/Miguegithub78)
