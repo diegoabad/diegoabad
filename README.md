@@ -2,8 +2,6 @@
 
 #### I am a creative, enterprising and self-taught person. Without a doubt I am very happy to have taken a turn in my professional development towards the programming side as it allows me to exploit all my qualities.
 
----
-
 #### I am currently looking for new challenges that test my current capabilities as **Full Stack Developer**
 
 ---
@@ -32,7 +30,39 @@ I am also interested in mobile development with **React Native**.
 
 ---
 
-# Projects
+# Featured Projects
+
+## Middleware App
+
+#### Project carried out within a team of 8 developers using agile methodologies (SCRUM).
+
+#### It consists of a platform that puts junior developers in contact with companies.
+
+#### Among its outstanding features we find: chat between users, real-time notifications,integration with payment platform (MercadoPago), log-in system and user roles in addition to the use of TOKENS for the protection of all our routes.
+
+#### Technologies used: React, Redux, Bootstrap, SocketIO, Firebase, JWT, Mongo, Node.JS and Express.
+
+#### Highlights: Middleware App won second place by student vote.
+
+### Github of my colleagues
+
+- [Hernan Diaz](https://github.com/hernandiazz9)
+- [Ailín Rutchle](https://github.com/Ailin09)
+- [Pamela Pereyra](hhttps://github.com/sritapam)
+- [Jesuan Patermina](https://github.com/jesuanp)
+- [Maximiliano Gadea](https://github.com/maxigadea)
+- [Miguel Avalle](https://github.com/Miguegithub78)
+- [Ana Fernandez](https://github.com/anaangelicaf)
+
+<img src="./Middle/Landing.png " alt="Landing"   />
+<img src="./Middle/Home.png " alt="Home"  />
+<img src="./Middle/Details.png " alt="Details"   />
+<img src="./Middle/Empleos.png " alt="Empleos"   />
+<img src="./Middle/Chat.png " alt="Chat"   />
+<img src="./Middle/Publicaciones.png " alt="Publicaciones"   />
+<img src="./Middle/CrearEmpleo.png " alt="CrearEmpleo"   />
+
+---
 
 ## Pokemon App
 
@@ -40,8 +70,8 @@ I am also interested in mobile development with **React Native**.
 
 #### All applied styles are made with pure CSS without the use of external libraries. The SPA consumes API data (PokeApi) through a Back End developed in Node.JS using Express, adding new functionalities to the original Api. Also as a database use PostgresSQL with Seaqualize
 
-![pokeHome](./PokeHome.png)
-![pokeDetails](./PokeDetail.png)
-![pokeCreate](./PokeCreated.png)
+<img src="./Poke/PokeHome.png " alt="Pokehome"  />
+<img src="./Poke/PokeCreated.png " alt="PokeCreated"  />
+<img src="./Poke/PokeDetail.png" alt="PokeDetail"  />
 
 ---
